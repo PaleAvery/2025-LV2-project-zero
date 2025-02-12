@@ -6,4 +6,4 @@ def make_statement(statement, decoration):
     print(f"{decoration * 3} {statement} {decoration * 3}")
 
 # main routine goes here
-make_statement("Programming is fun!","...")
+make_statement("Instructions","...")
